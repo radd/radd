@@ -1,1 +1,334 @@
-Hello
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Piotr Radziszewski | Portfolio</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="style.css">
+  <!-- <script src="https://kit.fontawesome.com/3cda6983f7.js"></script> -->
+  <script src="fonts/fontawesome/js/fonts.js"></script>
+  <script src="https://unpkg.com/scrollreveal@4.0.0/dist/scrollreveal.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@12.0.0/dist/lazyload.min.js"></script>
+</head>
+<body id="home" class="menu-mobile-right">
+  <div id="container" class="">
+  <header>
+    <div id="top">
+      <div class="top-left load-hidden">
+        <a href="https://github.com/radd" target="_blank" class="min-link">
+          <i class="fab fa-github"></i>
+          <span class="name">GitHub</span>
+        </a>
+        <a href="https://www.linkedin.com/in/piotr-radziszewski/" target="_blank" class="min-link">
+          <i class="fab fa-linkedin"></i>
+          <span class="name">LinkedIn</span></span>
+        </a>
+        <a id="emailTop" href="#" class="min-link">
+            <i class="far fa-envelope"></i>
+            <span class="name">Email</span></span>
+          </a>
+      </div>
+       <div class="top-right">
+        
+      </div>
+    </div>
+    <div id="nav">
+      <div id="menu" class="load-hidden">
+        <ul id="navigation" class="navigation">
+          <li class="active"><a href="#home">Home</a></li>
+          <li><a href="#about">About</a></li>
+          <li><a href="#projects">Projects</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+        <span id="openMenu"  class="mobile-menu">
+          <i class="fas fa-bars"></i>
+        </span>
+      </div>
+      <div class="logo">
+        <div class="author-info load-hidden">
+         <div class="image">
+           <img src="./images/image-logo.jpg">
+         </div>
+         <div class="text">
+           <div class="title">Piotr Radziszewski</div>
+           <div class="subtitle">@radd @radnet</div>
+         </div>
+         </div>
+       </div>
+    </div>
+  </header>
+  <section class="top" >
+    <div id="about">
+     
+      <h1 class="title load-hidden">
+        Welcome to my portfolio page
+        </h1>
+      <h2 class="about load-hidden" >
+        My name is <span>Piotr</span>, and I <span>love coding</span> since I was 16. In the beginning I coded simple websites with <span>HTML</span>, <span>CSS</span> and <span>JavaScript</span>. Then I started writing <span>PHP</span> scripts, and I deep dived into web development. Recently I have fascinated with <span>Java</span> technology. I coded a few projects with <span>Java</span> and <span>Spring Framework</span>. Also, I have started learning <span>Angular</span>. 
+        <br />
+        If you want to know more, please scroll down and view my projects.
+      </h2>
+      
+      <div class="projects-btn load-hidden">
+        <button data-href="#projects" >View my projects</button>
+      </div>
+      <div class="ck1">
+       
+      </div>
+    </div>
+  </section>
+  <section id="projects" class="project" bg="white"> 
+    <div id="gps" class="project-title">
+      <div class="title">Real-Time GPS Tracking System<a class="title-anchor" href="#gps"><i class="fas fa-link"></i></a></div>
+      <div class="subtitle">The main goal of this project is to provide a solution to share GPS <strong>coordinates</strong> and to observe user's positions on the map. System uses <strong>real-time</strong> communication between client and server. <br />  <br /> The project was made as part of the master thesis.</div>
+    </div>
+    <div id="gps-web" class="project-info">
+      <div class="images">
+        <img class="lazy load-hidden" data-srcset="images/gps-webapp.png"  
+        src="data:image/svg+xml,%3Csvg  width='700' height='526' xmlns='http://www.w3.org/2000/svg' %3E%3C/svg%3E" />
+      </div>
+      <div class="desc">
+        <h2 class="title">Web Application<a class="title-anchor" href="#gps-web"><i class="fas fa-link"></i></a></h2>
+        <p class="before-ul">Available through a web browser. App can <strong>track</strong> user's locations and draw on the map its position and movement speed. Web aplication includes:</p>
+        <ul>
+          <li>Sign up and sign in (JWT)</li>
+          <li>Real-Time user locations tracking</li>
+          <li>View and share user route</li>
+        </ul>
+        <p></p>
+        
+        <h4 class="title">Technologies</h3>
+        <p class="project-tools">JavaScript, Node.js, Express, HTML, CSS, Bootstrap 4, Ajax, WebSocket(STOMP)</p>
+        
+        <h4 class="title">See more</h3>
+        <div class="more-links">
+          <a href="https://github.com/radd/gps-webapp-nodejs" target="_blank" class="link">
+            <i class="fab fa-github"></i>
+            <span class="name">GitHub</span>
+          </a>
+        </div>
+      </div>
+    </div>
+    
+  </section>
+  <section id="gps-mobile" class="project" bg="white-2">
+    <div class="project-info ">
+      <div class="images">
+        <img class="lazy load-hidden" data-srcset="images/gps-mobile.png"  
+        src="data:image/svg+xml,%3Csvg  width='700' height='657' xmlns='http://www.w3.org/2000/svg' %3E%3C/svg%3E" />
+      </div>
+      <div class="desc">
+        <h2 class="title">Mobile Application<a class="title-anchor" href="#gps-mobile"><i class="fas fa-link"></i></a></h2>
+        <p>This app can <strong>determine</strong> user location and immediately <strong>share</strong> position with other users. With this app user can also <strong>track</strong> everyone who share their positions.</p>
+        <p>Moreover, app allows to create new <strong>route</strong> and save user's coordinates. App is available on <strong>Android</strong> platform.</p>
+        <h4 class="title">Technologies</h3>
+        <p class="project-tools">Java, Android</p>
+        
+        <h4 class="title">See more</h3>
+        <div class="more-links">
+          <a href="https://github.com/radd/gps-android-app" target="_blank" class="link">
+            <i class="fab fa-github"></i>
+            <span class="name">GitHub</span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section id="gps-server" class="project" bg="white">
+    <div class="project-info">
+      <div class="images">
+        <img class="lazy load-hidden" data-srcset="images/gps-schema.jpg "
+        src="data:image/svg+xml,%3Csvg  width='886' height='610' xmlns='http://www.w3.org/2000/svg' %3E%3C/svg%3E" />
+
+      </div>
+      <div class="desc">
+        <h2 class="title">Server-side<a class="title-anchor" href="#gps-server"><i class="fas fa-link"></i></a></h2>
+        <p>Back-end is a heart of the system. It receives <strong>GPS coordinates</strong> from user and <strong>dispatches</strong> messages to other connected clients.</p>
+        <p>Two type of communication is available. HTTP for <strong>REST API</strong> calls, and WebSocket for receives and sends <strong>real-time</strong> messages.</p>
+        <p>The data is stored in MongoDB database.</p>
+        <h4 class="title">Technologies</h3>
+        <p class="project-tools">Java, Spring - Boot, Security, REST, MongoDB, WebSocket</p>
+        
+        <h4 class="title">See more</h3>
+        <div class="more-links">
+          <a href="https://github.com/radd/rest-service-gps" target="_blank" class="link">
+            <i class="fab fa-github"></i>
+            <span class="name">GitHub</span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section id="myalbums" class="project bg-dark" bg="gradient-1"> 
+     <div class="project-title">
+      <div class="title">My Photo Albums<a class="title-anchor" href="#myalbums"><i class="fas fa-link"></i></a></div>
+      <div class="subtitle">Mobile application on Android, iOS and Windows 10 Mobile.</div>
+    </div>
+    <div class="project-info">
+        <div class="images">
+            <img class="lazy load-hidden" data-srcset="images/album-mobile.png " 
+            src="data:image/svg+xml,%3Csvg  width='600' height='656' xmlns='http://www.w3.org/2000/svg' %3E%3C/svg%3E" />
+        </div>
+        <div class="desc">
+          <p class="before-ul">This application is like a photo gallery, but it also offers special features such as:</p>
+          <ul>
+            <li>Creating new albums</li>
+            <li>Taking pictures and saving in a specific album</li>
+            <li>Saving the GPS location of the photo</li>
+            <li>Displaying photos and album on the map</li>
+            <li>Saving weather information (from Open Weather Map API)</li>
+            <li>Adding tags to photo</li>
+          </ul>
+          <p>The project was created as part of the engineering thesis.</p>
+          
+          <h4 class="title">Technologies</h3>
+          <p class="project-tools">Apache Cordova 6, HTML, CSS, JavaScript, SPA, SQLite</p>
+          
+          <h4 class="title">See more</h3>
+          <div class="more-links">
+            <a href="https://github.com/radd/rest-service-gps" target="_blank" class="link">
+              <i class="fab fa-github"></i>
+              <span class="name">GitHub</span>
+            </a>
+          </div>
+        </div>
+      </div>
+  </section>
+  <section id="mybooks" class="project" bg="white-2" > 
+    <div class="project-title">
+     <h1 class="title">My Books<a class="title-anchor" href="#mybooks"><i class="fas fa-link"></i></a></h1>
+   </div>
+   <div class="project-info">
+       <div class="images">
+         <img class="lazy" data-srcset="images/mybooks.png" 
+         src="data:image/svg+xml,%3Csvg  width='722' height='527' xmlns='http://www.w3.org/2000/svg' %3E%3C/svg%3E" />
+
+       </div>
+       <div class="desc">
+         <p>Website where user can rate books and write reviews.</p>
+         <p> All feature: book information, category, tags, reviews, vote, comments, user account, profile.</p>
+         <h4 class="title">Technologies</h3>
+         <p class="project-tools">Java, Spring (Boot, Security, MVC, REST), Hibernate, MySQL, JSTL, HTML, CSS, JavaScript, Bootstrap 4</p>
+         
+         <h4 class="title">See more</h3>
+         <div class="more-links">
+           <a href="https://github.com/radd/mybooks" target="_blank" class="link">
+             <i class="fab fa-github"></i>
+             <span class="name">GitHub</span>
+           </a>
+         </div>
+       </div>
+     </div>
+ </section>
+  <section id="book-html" class="project " bg="white" > 
+     <div class="project-title">
+      <h1 class="title">Book - HTML Template<a class="title-anchor" href="#book-html"><i class="fas fa-link"></i></a></h1>
+    </div>
+    <div class="project-info vertical">
+        <div class="images">
+          <img class="lazy" data-srcset="images/books.png" 
+          src="data:image/svg+xml,%3Csvg  width='1500' height='723' xmlns='http://www.w3.org/2000/svg' %3E%3C/svg%3E" />
+
+        </div>
+        <div class="desc">
+          <h4 class="title">Technologies</h3>
+          <p class="project-tools">HTML, CSS, JavaScript</p>
+          
+          <h4 class="title">See more</h3>
+          <div class="more-links">
+            <a href="https://github.com/radd/book-template" target="_blank" class="link">
+              <i class="fab fa-github"></i>
+              <span class="name">GitHub</span>
+            </a>
+            <a href="https://radd.github.io/demo/book-template/" target="_blank" class="link">
+                <i class="far fa-eye"></i>
+                <span class="name">Demo</span>
+            </a>
+          </div>
+        </div>
+      </div>
+  </section>
+  <section id="conf" class="project " bg="white-2" > 
+    <div class="project-title">
+     <h1 class="title">Konferencja 2.0<a class="title-anchor" href="#conf"><i class="fas fa-link"></i></a></h1>
+   </div>
+   <div class="project-info vertical">
+       <div class="images">
+         <img class="lazy" data-srcset="images/conf.png" 
+         src="data:image/svg+xml,%3Csvg  width='730' height='568' xmlns='http://www.w3.org/2000/svg' %3E%3C/svg%3E" />
+
+       </div>
+       <div class="desc">
+         <h4 class="title">Technologies</h3>
+         <p class="project-tools">C#, WPF</p>
+         
+         <h4 class="title">See more</h3>
+         <div class="more-links">
+           <a href="https://github.com/radd/konferencja-2.0" target="_blank" class="link">
+             <i class="fab fa-github"></i>
+             <span class="name">GitHub</span>
+           </a>
+         </div>
+       </div>
+     </div>
+ </section>
+  <section id="contact" class="contact bg-dark"> 
+    <div class="contact-title">
+      <h1 class="title">Contact<a class="title-anchor" href="#contact"><i class="fas fa-link"></i></a></h1>
+    </div>
+    <div class="contact-list">
+      <a id="contactEmail" href="#" class="contact-item load-hidden">
+        <div class="icon">
+          <i class="far fa-envelope"></i>
+        </div>
+        <div class="text">
+          <div class="title">Email</div>
+          <div class="subtitle">...@gmail.com</div>
+        </div>
+      </a>
+      <a href="https://github.com/radd" target="_blank" class="contact-item load-hidden">
+        <div class="icon">
+          <i class="fab fa-github"></i>
+        </div>
+        <div class="text">
+          <div class="title">GitHub</div>
+          <div class="subtitle">@radd</div>
+        </div>
+      </a>
+      <a href="https://www.linkedin.com/in/piotr-radziszewski/" target="_blank" class="contact-item load-hidden">
+        <div class="icon">
+          <i class="fab fa-linkedin"></i>
+        </div>
+        <div class="text">
+          <div class="title">LinkedIn</div>
+          <div class="subtitle">piotr-radziszewski</div>
+        </div>
+      </a>
+    </div>
+    <footer>Copyright &copy; 2019 Piotr Radziszewski</footer>
+  </section>
+  <button id="menuFixed" title="Menu"><i class="fas fa-bars"></i></button> 
+  <button id="scrollTop" data-href="#home" title="Go to top"><i class="fas fa-angle-up"></i></button> 
+  <div id="overlay" class=""></div>
+  </div>
+  <div id="sidebar" class="">
+    <ul class="navigation">
+      <li class="active"><a href="#home">Home</a></li>
+      <li><a href="#about">About</a></li>
+      <li><a href="#projects">Projects</a></li>
+      <li><a href="#contact">Contact</a></li>
+      </ul>
+  </div>
+  <div id="popUp" class="">
+    <div class="panel-title">
+      <div class="title"></div>
+      <div class="close"><i class="fas fa-times"></i></div>
+    </div>
+    <div class="panel-content"></div>
+    <div class="panel-action">
+      <a href="" class="action-btn"></a>
+    </div>
+  </div>
+  <script src="index.js"></script>
+</body>
+</html>

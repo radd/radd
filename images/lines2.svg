@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Wygenerowane w programie Microsoft Visio, SVG Export lines2.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="14.9396in" height="3.52223in"
+		viewBox="0 0 1075.65 253.6" xml:space="preserve" color-interpolation-filters="sRGB" class="st5">
+	<v:documentProperties v:langID="1045" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#f2f2f2;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st2 {fill:#fee599;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st3 {fill:#d8d8d8;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st4 {fill:#d7e3bf;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st5 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Strona 1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="shape3-1" v:mID="3" v:groupContext="shape" transform="translate(18.375,-86.4065)">
+			<title>Arkusz.3</title>
+			<rect x="0" y="242.262" width="228.898" height="11.3386" rx="5.66929" ry="5.66929" class="st1"/>
+		</g>
+		<g id="shape4-3" v:mID="4" v:groupContext="shape" transform="translate(258.611,-86.4065)">
+			<title>Arkusz.4</title>
+			<rect x="0" y="242.262" width="22.6772" height="11.3386" rx="5.66929" ry="5.66929" class="st2"/>
+		</g>
+		<g id="shape5-5" v:mID="5" v:groupContext="shape" transform="translate(292.627,-86.4065)">
+			<title>Arkusz.5</title>
+			<rect x="0" y="242.262" width="215.433" height="11.3386" rx="5.66929" ry="5.66929" class="st1"/>
+		</g>
+		<g id="shape6-7" v:mID="6" v:groupContext="shape" transform="translate(18.375,-63.7293)">
+			<title>Arkusz.6</title>
+			<rect x="0" y="242.262" width="71.5748" height="11.3386" rx="5.66929" ry="5.66929" class="st1"/>
+		</g>
+		<g id="shape7-9" v:mID="7" v:groupContext="shape" transform="translate(99.871,-63.7293)">
+			<title>Arkusz.7</title>
+			<rect x="0" y="242.262" width="22.6772" height="11.3386" rx="5.66929" ry="5.66929" class="st2"/>
+		</g>
+		<g id="shape8-11" v:mID="8" v:groupContext="shape" transform="translate(133.887,-63.7293)">
+			<title>Arkusz.8</title>
+			<rect x="0" y="242.262" width="215.433" height="11.3386" rx="5.66929" ry="5.66929" class="st3"/>
+		</g>
+		<g id="shape9-13" v:mID="9" v:groupContext="shape" transform="translate(18.375,-109.084)">
+			<title>Arkusz.9</title>
+			<rect x="0" y="242.262" width="142.441" height="11.3386" rx="5.66929" ry="5.66929" class="st3"/>
+		</g>
+		<g id="shape10-15" v:mID="10" v:groupContext="shape" transform="translate(182.076,-109.084)">
+			<title>Arkusz.10</title>
+			<rect x="0" y="242.262" width="215.433" height="11.3386" rx="5.66929" ry="5.66929" class="st1"/>
+		</g>
+		<g id="shape11-17" v:mID="11" v:groupContext="shape" transform="translate(418.769,-109.084)">
+			<title>Arkusz.11</title>
+			<rect x="0" y="242.262" width="22.6772" height="11.3386" rx="5.66929" ry="5.66929" class="st2"/>
+		</g>
+		<g id="shape21-19" v:mID="21" v:groupContext="shape" transform="translate(18.375,-131.761)">
+			<title>Arkusz.21</title>
+			<rect x="0" y="242.262" width="200.551" height="11.3386" rx="5.66929" ry="5.66929" class="st4"/>
+		</g>
+		<g id="shape22-21" v:mID="22" v:groupContext="shape" transform="translate(240.186,-131.761)">
+			<title>Arkusz.22</title>
+			<rect x="0" y="242.262" width="187.087" height="11.3386" rx="5.66929" ry="5.66929" class="st1"/>
+		</g>
+		<g id="shape23-23" v:mID="23" v:groupContext="shape" transform="translate(18.375,-154.438)">
+			<title>Arkusz.23</title>
+			<rect x="0" y="242.262" width="50.3149" height="11.3386" rx="5.66929" ry="5.66929" class="st1"/>
+		</g>
+		<g id="shape24-25" v:mID="24" v:groupContext="shape" transform="translate(89.9498,-154.438)">
+			<title>Arkusz.24</title>
+			<rect x="0" y="242.262" width="36.8504" height="11.3386" rx="5.66929" ry="5.66929" class="st2"/>
+		</g>
+		<g id="shape25-27" v:mID="25" v:groupContext="shape" transform="translate(448.532,-63.7293)">
+			<title>Arkusz.25</title>
+			<rect x="0" y="242.262" width="215.433" height="11.3386" rx="5.66929" ry="5.66929" class="st1"/>
+		</g>
+		<g id="shape26-29" v:mID="26" v:groupContext="shape" transform="translate(669.635,-41.0522)">
+			<title>Arkusz.26</title>
+			<rect x="0" y="242.262" width="128.976" height="11.3386" rx="5.66929" ry="5.66929" class="st3"/>
+		</g>
+		<g id="shape27-31" v:mID="27" v:groupContext="shape" transform="translate(615.777,-41.0522)">
+			<title>Arkusz.27</title>
+			<rect x="0" y="242.262" width="36.8504" height="11.3386" rx="5.66929" ry="5.66929" class="st2"/>
+		</g>
+		<g id="shape28-33" v:mID="28" v:groupContext="shape" transform="translate(148.06,-154.438)">
+			<title>Arkusz.28</title>
+			<rect x="0" y="242.262" width="128.976" height="11.3386" rx="5.66929" ry="5.66929" class="st1"/>
+		</g>
+		<g id="shape29-35" v:mID="29" v:groupContext="shape" transform="translate(373.414,-63.7293)">
+			<title>Arkusz.29</title>
+			<rect x="0" y="242.262" width="58.1102" height="11.3386" rx="5.66929" ry="5.66929" class="st4"/>
+		</g>
+		<g id="shape30-37" v:mID="30" v:groupContext="shape" transform="translate(469.792,-41.0522)">
+			<title>Arkusz.30</title>
+			<rect x="0" y="242.262" width="128.976" height="11.3386" rx="5.66929" ry="5.66929" class="st1"/>
+		</g>
+		<g id="shape31-39" v:mID="31" v:groupContext="shape" transform="translate(18.375,-41.0522)">
+			<title>Arkusz.31</title>
+			<rect x="0" y="242.262" width="200.551" height="11.3386" rx="5.66929" ry="5.66929" class="st1"/>
+		</g>
+		<g id="shape33-41" v:mID="33" v:groupContext="shape" transform="translate(323.808,-41.0522)">
+			<title>Arkusz.33</title>
+			<rect x="0" y="242.262" width="128.976" height="11.3386" rx="5.66929" ry="5.66929" class="st3"/>
+		</g>
+		<g id="shape34-43" v:mID="34" v:groupContext="shape" transform="translate(240.186,-41.0522)">
+			<title>Arkusz.34</title>
+			<rect x="0" y="242.262" width="66.6142" height="11.3386" rx="5.66929" ry="5.66929" class="st2"/>
+		</g>
+		<g id="shape35-45" v:mID="35" v:groupContext="shape" transform="translate(18.375,-18.375)">
+			<title>Arkusz.35</title>
+			<rect x="0" y="242.262" width="164.409" height="11.3386" rx="5.66929" ry="5.66929" class="st1"/>
+		</g>
+		<g id="shape36-47" v:mID="36" v:groupContext="shape" transform="translate(204.044,-18.375)">
+			<title>Arkusz.36</title>
+			<rect x="0" y="242.262" width="154.488" height="11.3386" rx="5.66929" ry="5.66929" class="st3"/>
+		</g>
+		<g id="shape37-49" v:mID="37" v:groupContext="shape" transform="translate(381.21,-18.375)">
+			<title>Arkusz.37</title>
+			<rect x="0" y="242.262" width="161.575" height="11.3386" rx="5.66929" ry="5.66929" class="st4"/>
+		</g>
+		<g id="shape38-51" v:mID="38" v:groupContext="shape" transform="translate(571.131,-18.375)">
+			<title>Arkusz.38</title>
+			<rect x="0" y="242.262" width="293.386" height="11.3386" rx="5.66929" ry="5.66929" class="st1"/>
+		</g>
+		<g id="shape40-53" v:mID="40" v:groupContext="shape" transform="translate(519.399,-86.4065)">
+			<title>Arkusz.40</title>
+			<rect x="0" y="242.262" width="215.433" height="11.3386" rx="5.66929" ry="5.66929" class="st1"/>
+		</g>
+		<g id="shape41-55" v:mID="41" v:groupContext="shape" transform="translate(462.706,-109.084)">
+			<title>Arkusz.41</title>
+			<rect x="0" y="242.262" width="142.441" height="11.3386" rx="5.66929" ry="5.66929" class="st3"/>
+		</g>
+		<g id="shape42-57" v:mID="42" v:groupContext="shape" transform="translate(18.375,-177.115)">
+			<title>Arkusz.42</title>
+			<rect x="0" y="242.262" width="200.551" height="11.3386" rx="5.66929" ry="5.66929" class="st1"/>
+		</g>
+		<g id="shape43-59" v:mID="43" v:groupContext="shape" transform="translate(240.186,-177.115)">
+			<title>Arkusz.43</title>
+			<rect x="0" y="242.262" width="154.488" height="11.3386" rx="5.66929" ry="5.66929" class="st3"/>
+		</g>
+		<g id="shape44-61" v:mID="44" v:groupContext="shape" transform="translate(415.934,-177.115)">
+			<title>Arkusz.44</title>
+			<rect x="0" y="242.262" width="36.8504" height="11.3386" rx="5.66929" ry="5.66929" class="st2"/>
+		</g>
+		<g id="shape46-63" v:mID="46" v:groupContext="shape" transform="translate(298.296,-154.438)">
+			<title>Arkusz.46</title>
+			<rect x="0" y="242.262" width="200.551" height="11.3386" rx="5.66929" ry="5.66929" class="st1"/>
+		</g>
+		<g id="shape47-65" v:mID="47" v:groupContext="shape" transform="translate(815.619,-41.0522)">
+			<title>Arkusz.47</title>
+			<rect x="0" y="242.262" width="71.5748" height="11.3386" rx="5.66929" ry="5.66929" class="st1"/>
+		</g>
+		<g id="shape48-67" v:mID="48" v:groupContext="shape" transform="translate(680.973,-63.7293)">
+			<title>Arkusz.48</title>
+			<rect x="0" y="242.262" width="187.795" height="11.3386" rx="5.66929" ry="5.66929" class="st1"/>
+		</g>
+		<g id="shape49-69" v:mID="49" v:groupContext="shape" transform="translate(448.532,-131.761)">
+			<title>Arkusz.49</title>
+			<rect x="0" y="242.262" width="85.3937" height="11.3386" rx="5.66929" ry="5.66929" class="st4"/>
+		</g>
+		<g id="shape50-71" v:mID="50" v:groupContext="shape" transform="translate(892.863,-18.375)">
+			<title>Arkusz.50</title>
+			<rect x="0" y="242.262" width="164.409" height="11.3386" rx="5.66929" ry="5.66929" class="st1"/>
+		</g>
+		<g id="shape51-73" v:mID="51" v:groupContext="shape" transform="translate(904.202,-41.0522)">
+			<title>Arkusz.51</title>
+			<rect x="0" y="242.262" width="70.8662" height="11.3386" rx="5.66929" ry="5.66929" class="st1"/>
+		</g>
+		<g id="shape52-75" v:mID="52" v:groupContext="shape" transform="translate(18.375,-199.792)">
+			<title>Arkusz.52</title>
+			<rect x="0" y="242.262" width="36.8504" height="11.3386" rx="5.66929" ry="5.66929" class="st2"/>
+		</g>
+		<g id="shape53-77" v:mID="53" v:groupContext="shape" transform="translate(76.4852,-199.792)">
+			<title>Arkusz.53</title>
+			<rect x="0" y="242.262" width="50.3149" height="11.3386" rx="5.66929" ry="5.66929" class="st1"/>
+		</g>
+		<g id="shape54-79" v:mID="54" v:groupContext="shape" transform="translate(18.375,-223.887)">
+			<title>Arkusz.54</title>
+			<rect x="0" y="242.262" width="83.2677" height="11.3386" rx="5.66929" ry="5.66929" class="st1"/>
+		</g>
+		<g id="shape55-81" v:mID="55" v:groupContext="shape" transform="translate(148.06,-199.792)">
+			<title>Arkusz.55</title>
+			<rect x="0" y="242.262" width="128.976" height="11.3386" rx="5.66929" ry="5.66929" class="st1"/>
+		</g>
+		<g id="shape56-83" v:mID="56" v:groupContext="shape" transform="translate(122.903,-223.887)">
+			<title>Arkusz.56</title>
+			<rect x="0" y="242.262" width="83.2677" height="11.3386" rx="5.66929" ry="5.66929" class="st4"/>
+		</g>
+	</g>
+</svg>
